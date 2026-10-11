@@ -68,6 +68,7 @@ The project report is available in the `docs/` directory as a PDF document. It p
 **Course:** CSE465 — Course Project  
 **Institution:** North South University  
 **Project:** PVT-MAAG: A Hybrid Vision Transformer for Solar PV Cell Defect Detection
+**Instructor:** Dr. Riasat Khan
 
 This project was completed as part of the course requirements and involved the implementation and experimentation of a deep learning-based approach to solar PV cell defect detection.
 
